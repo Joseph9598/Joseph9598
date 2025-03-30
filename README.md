@@ -20,10 +20,11 @@
   <a href="https://www.linkedin.com/in/augusto-pereira-devjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+ <div align="center"> 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Joseph9598&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=Joseph9598&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_width=400"
   />
+ </div>
