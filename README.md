@@ -1,4 +1,4 @@
-## Olá, sou José Augusto! 👋
+## Olá, sou José Augusto!
 
 
 - 🔭 Atualmente não estou trabalhando fora da área de desenvolvimento web
