@@ -1,7 +1,7 @@
 ## Olá, sou José Augusto!
 
 
-- 🔭 Atualmente não estou trabalhando fora da área de desenvolvimento web
+- 🔭 Atualmente estou trabalhando fora da área de desenvolvimento web
 - 🌱 Estudando Java, Java Script, Python, HTML e CSS
 
 <div style="display: inline_block"><br>
