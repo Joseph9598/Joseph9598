@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando fora da área de desenvolvimento web
 - 🌱 Estudando Java, Java Script, Python, HTML e CSS
-- Primeiro período em Engenharia de Software
+- Segundo período em Engenharia de Software
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joseph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
